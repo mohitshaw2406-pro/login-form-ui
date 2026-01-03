@@ -1,25 +1,40 @@
 🔗 Live Demo: https://mohitshaw2406-pro.github.io/login-form-ui/
 
+# Login & Register Form UI
 
-# Login Form UI
-
-A responsive login form built using HTML and CSS with a glassmorphism design.
-This project was created by following a YouTube tutorial and modified for learning purposes.
+This is a simple and responsive Login and Registration Form UI created using HTML and CSS.
+The project focuses on clean design and basic front-end structure for beginners.
 
 ## Features
-- Clean login interface
-- Glassmorphism UI
-- Responsive layout
+- Login page UI
+- Register page UI
+- Responsive design
+- Clean HTML and CSS
+- Beginner friendly
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 
-## Credits & Learning Reference
-This project was initially created by following a YouTube tutorial for learning purposes.
-The code has been modified and enhanced by me with additional improvements and customization.
+## Project Structure
+login-form-ui  
+- index.html  
+- register.html  
+- login.css  
+- register.css  
+- nature.jpg  
+- README.md  
 
+## How to Use
+1. Download or clone the repository
+2. Open the project folder
+3. Open index.html in a browser
 
 ## Future Improvements
 - Add JavaScript validation
-- Backend authentication
+- Connect with backend
+- Add animations
+
+## Author
+Mohit Shaw  
+GitHub: https://github.com/mohitshaw2406-pro
